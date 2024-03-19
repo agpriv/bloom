@@ -3,6 +3,8 @@
 
 **Spaced repetition** được đề cập lần đầu trong quyển “Tâm lý trong việc học” (Psychology of Study) của giáo sư Cecil Alec Mace vào năm 1932. Đến năm 1985, nhà tâm lý học Hermann Ebbinghaus đã tìm ra quy luật của trí nhớ, góp phần to lớn giúp công nhận và phổ biến rộng rãi việc sử dụng phương pháp này.
 
+![](https://raw.githubusercontent.com/agpriv/bloom/main/markdowns/spaced-repetition/forgetting-curve.png)
+
 ## Lợi ích của phương pháp Spaced Repetition
 - **Spaced repetition** sẽ cải thiện và nâng cao khả năng ghi nhớ thông tin của người học.
 - Giúp ghi nhớ thông tin hiệu quả hơn trong thời gian ngắn hơn so với các phương pháp truyền thống khác.
