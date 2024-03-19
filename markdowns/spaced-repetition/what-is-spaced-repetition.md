@@ -5,6 +5,7 @@
 
 ![](https://raw.githubusercontent.com/agpriv/bloom/main/markdowns/spaced-repetition/forgetting-curve.png)
 
+
 ## Lợi ích của phương pháp Spaced Repetition
 - **Spaced repetition** sẽ cải thiện và nâng cao khả năng ghi nhớ thông tin của người học.
 - Giúp ghi nhớ thông tin hiệu quả hơn trong thời gian ngắn hơn so với các phương pháp truyền thống khác.
@@ -22,4 +23,5 @@ Mỗi thẻ từ vựng sẽ có 6 cấp độ ghi nhớ, tương ứng với c�
 ![](https://raw.githubusercontent.com/agpriv/bloom/main/markdowns/spaced-repetition/img-bloom-lvl-table.png)
 
 **Cấp Bloom**: Đạt tối thiểu cấp 5 và đã hoàn thành luyện tập đặt câu với từ vựng.
+
 Sau **cấp 5**, thẻ từ vựng vẫn sẽ được nhắc lại ôn tập nhưng có chu kỳ dài hơn, giúp ghi nhớ dài hạn sâu hơn nữa.
