@@ -22,6 +22,6 @@ Mỗi thẻ từ vựng sẽ có 6 cấp độ ghi nhớ, tương ứng với c�
 
 ![](https://raw.githubusercontent.com/agpriv/bloom/main/markdowns/spaced-repetition/img-bloom-lvl-table.png)
 
-**Cấp Bloom**: Đạt tối thiểu cấp 5 và đã hoàn thành luyện tập đặt câu với từ vựng.
+**Cấp Bloom**: Đạt tối thiểu cấp độ 6 và đã hoàn thành luyện tập đặt câu với từ vựng.
 
-Sau **cấp 5**, thẻ từ vựng vẫn sẽ được nhắc lại ôn tập nhưng có chu kỳ dài hơn, giúp ghi nhớ dài hạn sâu hơn nữa.
+Sau **cấp 6**, thẻ từ vựng sẽ được nhắc lại ôn tập với chu kỳ dài hơn, giúp ghi nhớ từ vựng dài hạn.
