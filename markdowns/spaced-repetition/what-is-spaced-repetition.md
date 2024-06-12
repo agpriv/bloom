@@ -14,6 +14,8 @@
 - Giúp liên kết thông tin mới và cũ trong trí nhớ dài hạn hiệu quả, tăng khả năng truy xuất và nhớ lại thông tin sau này.
 - Phương pháp này cho phép bạn lên kế hoạch học tập hiệu quả hơn, tăng hiệu xuất ghi nhớ và xử lý thông tin.
 
+![](https://raw.githubusercontent.com/agpriv/bloom/main/markdowns/spaced-repetition/spaced-repetition.png)
+
 
 ## Bloom giúp bạn áp dụng Spaced Repetition như thế nào?
 **Bloom** giúp bạn ghi nhớ từ vựng hiệu quả hơn bằng cách phân bổ và nhắc bạn ôn lại các từ đã học theo chu kỳ. 
